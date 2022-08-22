@@ -1,0 +1,152 @@
+﻿  CandyApplication2.cpp
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(4,16): error C3646: 'firstName': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(4,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(5,16): error C3646: 'lastNanme': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(5,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(6,17): error C3646: 'userEmail': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(6,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(7,17): error C3646: 'userPassword': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(7,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(13,23): error C2061: syntax error: identifier 'string'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(8,16): error C3646: 'email': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(8,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(9,16): error C3646: 'password': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(9,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(13,15): error C2061: syntax error: identifier 'string'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\CandyApplication2.cpp(58,32): error C2661: 'Login::Login': no overloaded function takes 2 arguments
+  cashRegister.cpp
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(4,16): error C3646: 'firstName': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(4,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(5,16): error C3646: 'lastNanme': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(5,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(6,17): error C3646: 'userEmail': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(6,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(7,17): error C3646: 'userPassword': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(7,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(13,23): error C2061: syntax error: identifier 'string'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(8,16): error C3646: 'email': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(8,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(9,16): error C3646: 'password': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(9,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(13,15): error C2061: syntax error: identifier 'string'
+  DespenerType.cpp
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(4,16): error C3646: 'firstName': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(4,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(5,16): error C3646: 'lastNanme': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(5,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(6,17): error C3646: 'userEmail': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(6,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(7,17): error C3646: 'userPassword': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(7,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(13,23): error C2061: syntax error: identifier 'string'
+  Login.cpp
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(4,16): error C3646: 'firstName': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(4,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(5,16): error C3646: 'lastNanme': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(5,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(6,17): error C3646: 'userEmail': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(6,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(7,17): error C3646: 'userPassword': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(7,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(13,23): error C2061: syntax error: identifier 'string'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(8,16): error C3646: 'email': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(8,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(9,16): error C3646: 'password': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(9,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(13,15): error C2061: syntax error: identifier 'string'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\cashRegister.h(4,20): error C2011: 'CashRegister': 'class' type redefinition
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\cashRegister.h(4): message : see declaration of 'CashRegister'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(1,21): error C2011: 'Registeration': 'class' type redefinition
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(1): message : see declaration of 'Registeration'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.cpp(14,1): error C2511: 'Login::Login(std::string,std::string)': overloaded member function not found in 'Login'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(5): message : see declaration of 'Login'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.cpp(29,14): error C2079: 'DB' uses undefined struct 'sqlite3'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.cpp(60,24): error C2079: 'registerClass' uses undefined class 'Registeration'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.cpp(60,83): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.cpp(60,37): message : The initializer contains too many elements
+  Registration.cpp
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(4,16): error C3646: 'firstName': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(4,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(5,16): error C3646: 'lastNanme': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(5,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(6,17): error C3646: 'userEmail': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(6,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(7,17): error C3646: 'userPassword': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(7,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(13,23): error C2061: syntax error: identifier 'string'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(1,21): error C2011: 'Registeration': 'class' type redefinition
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(1): message : see declaration of 'Registeration'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(8,16): error C3646: 'email': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(8,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(9,16): error C3646: 'password': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(9,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(13,15): error C2061: syntax error: identifier 'string'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.cpp(15,16): error C2027: use of undefined type 'Registeration'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(1): message : see declaration of 'Registeration'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.cpp(16,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.cpp(17,5): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.cpp(18,5): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.cpp(19,5): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.cpp(20,5): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.cpp(21,1): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.cpp(23,21): error C2027: use of undefined type 'Registeration'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(1): message : see declaration of 'Registeration'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.cpp(28,9): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.cpp(28,41): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.cpp(28,72): error C2065: 'userEmail': undeclared identifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.cpp(28,98): error C2065: 'userPassword': undeclared identifier
+  Run.cpp
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\cashRegister.h(4,20): error C2011: 'CashRegister': 'class' type redefinition
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\cashRegister.h(4): message : see declaration of 'CashRegister'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(4,16): error C3646: 'firstName': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(4,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(5,16): error C3646: 'lastNanme': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(5,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(6,17): error C3646: 'userEmail': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(6,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(7,17): error C3646: 'userPassword': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(7,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(13,23): error C2061: syntax error: identifier 'string'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(1,21): error C2011: 'Registeration': 'class' type redefinition
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Registration.h(1): message : see declaration of 'Registeration'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\DespenerType.h(6,22): error C2011: 'DispenserType': 'class' type redefinition
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\DespenerType.h(6): message : see declaration of 'DispenserType'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(8,16): error C3646: 'email': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(8,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(9,16): error C3646: 'password': unknown override specifier
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(9,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Login.h(13,15): error C2061: syntax error: identifier 'string'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(17,18): error C2079: 'cashRegister' uses undefined class 'CashRegister'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(19,20): error C2079: 'candy' uses undefined class 'DispenserType'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(19,33): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(19,25): message : The initializer contains too many elements
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(20,20): error C2079: 'chips' uses undefined class 'DispenserType'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(20,33): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(20,25): message : The initializer contains too many elements
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(21,20): error C2079: 'gum' uses undefined class 'DispenserType'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(21,30): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(21,23): message : The initializer contains too many elements
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(22,20): error C2079: 'cookies' uses undefined class 'DispenserType'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(22,34): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(22,27): message : The initializer contains too many elements
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(33,44): error C2664: 'void Run::sellProduct(DispenserType &,CashRegister &)': cannot convert argument 1 from 'int' to 'DispenserType &'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.h(17,14): message : see declaration of 'Run::sellProduct'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(37,44): error C2664: 'void Run::sellProduct(DispenserType &,CashRegister &)': cannot convert argument 1 from 'int' to 'DispenserType &'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.h(17,14): message : see declaration of 'Run::sellProduct'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(41,42): error C2664: 'void Run::sellProduct(DispenserType &,CashRegister &)': cannot convert argument 1 from 'int' to 'DispenserType &'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.h(17,14): message : see declaration of 'Run::sellProduct'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(44,46): error C2664: 'void Run::sellProduct(DispenserType &,CashRegister &)': cannot convert argument 1 from 'int' to 'DispenserType &'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.h(17,14): message : see declaration of 'Run::sellProduct'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(75,8): error C2027: use of undefined type 'DispenserType'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\DespenerType.h(6): message : see declaration of 'DispenserType'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(77,46): error C2027: use of undefined type 'DispenserType'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\DespenerType.h(6): message : see declaration of 'DispenserType'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(80,12): error C2027: use of undefined type 'DispenserType'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\DespenerType.h(6): message : see declaration of 'DispenserType'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(82,59): error C2027: use of undefined type 'DispenserType'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\DespenerType.h(6): message : see declaration of 'DispenserType'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(85,12): error C2027: use of undefined type 'DispenserType'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\DespenerType.h(6): message : see declaration of 'DispenserType'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\Run.cpp(87,21): error C2027: use of undefined type 'CashRegister'
+C:\Users\IThollie\Desktop\projects\CandyApplication2\CandyApplication2\cashRegister.h(4): message : see declaration of 'CashRegister'
+  Generating Code...
